@@ -2,6 +2,10 @@
 
 MyPodify is an open-source local solution for automatically generating podcasts from documents. Think of it as a self-hosted alternative to Google's NotebookLM, focused on podcast creation. The tool processes documents from a specified folder and transforms them into engaging podcast content complete with outlines, scripts, and audio.
 
+## Example
+
+You can find example Podcast outputs in the /examples directory to help you understand what MyPodify generates.
+
 ## Features
 
 - **Document Processing**: Supports multiple file formats including PDF (via Azure Document Intelligence), DOCX, and TXT files
