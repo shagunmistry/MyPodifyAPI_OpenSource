@@ -134,3 +134,7 @@ This project is licensed under the MIT License.
 ## Note
 
 This is an early version of the project and is under active development. Features and functionality may change in future releases.
+
+## Contact
+
+For questions or feedback or issues, please create an issue.
