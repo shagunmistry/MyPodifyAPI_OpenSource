@@ -25,7 +25,7 @@ You can find example Podcast outputs in the /examples directory to help you unde
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/mypodify.git
+git clone https://github.com/shagunmistry/NotebookLM_Alternative.git
 cd mypodify
 ```
 
